@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-download-manager",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova-plugin-download-manager",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "A cordova plugin for downloading large files"
+}
